@@ -35,5 +35,15 @@ Yahoo Finance mediante yfinance; si falla, la app informa que utiliza datos simu
 ● **Medias móviles:** Promedian los precios de un activo en una ventana de tiempo específica (ej. 20 o 50 días) para suavizar la fluctuación y ayudar a identificar tendencias del mercado.
 
 ● **Correlación:** Mide cómo se mueven dos activos entre sí en una escala de -1 a 1. Una correlación cercana a 1 indica que se mueven en la misma dirección, mientras que una cercana a -1 o 0 muestra baja relación o movimientos opuestos, ideal para diversificar carteras.
+
 ## Autor e interpretación
-Completar con tu nombre y un breve análisis de los resultados.
+
+**Autora:** Isabella Hincapié Soto
+
+**Breve análisis de los resultados:**
+
+A través de la aplicación interactiva desarrollada con Streamlit y yfinance, se logró estructurar un observatorio financiero funcional que permite la consulta dinámica y la comparación de activos en distintos horizontes temporales. El análisis de los precios normalizados evidenció cómo la conversión a una base común (base 100) facilita la evaluación objetiva del crecimiento porcentual, independientemente del valor nominal de cada acción. Asimismo, la integración de la volatilidad anualizada (calculada con la desviación estándar de los rendimientos diarios) y la matriz de correlación demostró ser fundamental para comprender el perfil de riesgo y las oportunidades de diversificación de una cartera. 
+
+
+
+
